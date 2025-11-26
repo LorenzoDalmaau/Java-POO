@@ -1,39 +1,6 @@
 # 01 – Clases y Objetos (Classes and Objects)
 
-> Objetivo: que una persona junior entienda **de verdad** qué es una clase, qué es un objeto y cómo se relacionan con el código real que va a ver en proyectos Java y Spring Boot.
-
-En esta carpeta tienes:
-
-- `Person.java` → definición de una clase
-- `Main.java` → creación y uso de objetos de esa clase
-- Este `README.md` → explicación teórica y práctica
-
----
-
-## 1. ¿Qué es una clase?
-
-### Definición sencilla
-
-Una **clase** es un modelo o plantilla que sirve para describir:
-
-- **Qué datos** va a tener algo → sus atributos
-- **Qué puede hacer** → sus métodos
-
-No es “algo real” todavía, es solo la descripción.
-
-### Definición un poco más técnica
-
-En Java, una clase:
-
-- Define **atributos** (también llamados campos o propiedades)
-- Define **métodos** (funciones asociadas a la clase)
-- Se usa como base para crear **objetos** con `new`
-
-### Ejemplo con la clase `Person`
-
-# 01 – Clases y Objetos (Classes and Objects)
-
-> Objetivo: que una persona junior entienda **de verdad** qué es una clase, qué es un objeto y cómo se relacionan con el código real que va a ver en proyectos Java y Spring Boot.
+> Objetivo: que una persona que está comenzando entienda **de verdad** qué es una clase, qué es un objeto y cómo se relacionan con el código real que va a ver en proyectos Java y Spring Boot.
 
 En esta carpeta tienes:
 
